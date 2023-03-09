@@ -1,2 +1,1 @@
-My new readme
-This project is a work in progress.
+my second commit
